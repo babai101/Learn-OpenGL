@@ -1,0 +1,4 @@
+/home/babai/Projects/learn_opengl/CMakeFiles/glad.dir
+/home/babai/Projects/learn_opengl/CMakeFiles/LearnOpenGL.dir
+/home/babai/Projects/learn_opengl/CMakeFiles/edit_cache.dir
+/home/babai/Projects/learn_opengl/CMakeFiles/rebuild_cache.dir

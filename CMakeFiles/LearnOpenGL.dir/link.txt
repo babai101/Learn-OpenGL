@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/LearnOpenGL.dir/learn_opengl.cpp.o -o LearnOpenGL  /usr/lib/libglfw.so.3.4 libglad.a /usr/lib/libGLX.so /usr/lib/libOpenGL.so
